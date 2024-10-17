@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umizoomii
-- 👀 I’m interested in AI, ethics, game design, and programming!
-- 🌱 I’m currently learning object oriented programming
-- 💞️ I’m looking to collaborate on game design!
+- 👀 I’m interested in math, ethics, game design, logic, and programming!
+- 🌱 I’m currently building a game in Godot called FairyStudio. Check out my first prototype video!
+- 💞️ I’m looking to collaborate on game design
 - 📫 How to reach me: ugsen@smith.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm left handed!
