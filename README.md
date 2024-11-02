@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @umizoomii
+### 👋 Hi, I’m @umizoomii!
+  
 - 👀 I’m interested in math, ethics, game design, logic, and programming!
 - 🌱 I’m currently building a game in Godot called FairyStudio. Check out my first prototype video!
+- 🐣 Languages I code in: mainly Python, Java, and GDScript
 - 💞️ I’m looking to collaborate on game design
 - 📫 How to reach me: ugsen@smith.edu
 - 😄 Pronouns: she/her
